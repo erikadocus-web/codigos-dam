@@ -11,6 +11,7 @@
         "kapo",
         "Matriz Antisimetrica",
         "Matriz Identidad",
-        "monedas"
+        "monedas",
+        "sudoku"
     ]
 }
